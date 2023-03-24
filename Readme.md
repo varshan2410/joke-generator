@@ -4,7 +4,7 @@ Simple Website with Joke Generator
 
 ## Author
 
-Rathees Koneswaran
+A Varshan
 
 ## Description
 
